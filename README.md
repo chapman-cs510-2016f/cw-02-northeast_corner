@@ -1,8 +1,8 @@
 # CS510 CW 2
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Eric Freda, Kaiqin Huang
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-02-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-02-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-02-Eigensapien.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-02-Eigensapien)
 
 **Due date:** 2016/09/13
 
@@ -31,4 +31,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Eric Freda, Kaiqin Huang
