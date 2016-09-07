@@ -2,7 +2,7 @@
 
 **Author(s):** Eric Freda, Kaiqin Huang
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-02-Eigensapien.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-02-Eigensapien)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-02-northeast_corner.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-02-northeast_corner)
 
 **Due date:** 2016/09/13
 
