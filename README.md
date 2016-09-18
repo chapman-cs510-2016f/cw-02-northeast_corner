@@ -22,6 +22,9 @@ Analyze in this section what you found useful about this assignment in your own 
 
 **CHANGEME**
 
+## INSTRUCTOR COMMENTS
+Excellent work. However, don't forget to actually provide an assessment for the assignment. It is useful for me for future revisions of the course, and to track where your confusions are.  Also make sure to include docstrings and comments in your code, with the assumption that other people may wish to use your code in the future (including your future self).  Finally, be sure you are actually working together as a team: Split the work; collaborate; discuss implementations together.
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
